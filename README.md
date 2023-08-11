@@ -1,3 +1,0 @@
-# ghostwriter.github.io
-
-WIP
